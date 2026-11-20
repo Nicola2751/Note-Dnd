@@ -1,0 +1,78 @@
+---
+import SiteLayout from '../../layouts/SiteLayout.astro';
+---
+<SiteLayout title="Area Master" description="Area appunti del master.">
+  <main>
+    <header class="page-intro">
+      <div class="eyebrow">Accesso riservato · Dungeon Master</div>
+      <h1>Archivio del Master</h1>
+      <p>Un luogo di lavoro per retroscena, segreti, PNG, avventure e rivelazioni non ancora destinate ai giocatori.</p>
+    </header>
+    <section class="content" style="max-width:620px;margin:0 auto;">
+      <div id="master-lock" class="lore-card">
+        <div class="card-symbol">⌑</div>
+        <h3>Inserisci la parola d'accesso</h3>
+        <p>Questa schermata è una barriera informale, non una protezione di sicurezza.</p>
+        <form id="master-login" style="margin-top:1.5rem;display:grid;gap:.8rem;">
+          <label for="master-password" style="color:var(--gold);font-size:.85rem;">Password</label>
+          <input id="master-password" type="password" autocomplete="off" placeholder="Parola d'accesso" required
+            style="width:100%;padding:.9rem 1rem;color:var(--ink);background:#101716;border:1px solid var(--line);border-radius:3px;font:1rem var(--sans);" />
+          <button type="submit" style="padding:.9rem 1rem;background:#b99a62;color:#171713;border:0;border-radius:3px;font:600 .85rem var(--sans);letter-spacing:.08em;text-transform:uppercase;cursor:pointer;">Entra nell'archivio</button>
+          <p id="master-error" role="alert" style="display:none;color:#e7a18b;margin:0;">Password non corretta. Riprova.</p>
+        </form>
+      </div>
+      <div id="master-content" hidden>
+        <div class="notice">Accesso sbloccato in questo browser. Ricorda: i contenuti di questa pagina sono pubblici a livello tecnico e non devono essere considerati segreti.</div>
+        <h2>Appunti del Master</h2>
+        <p>Questa sezione è pronta per raccogliere i materiali riservati alla conduzione della campagna.</p>
+        <div class="lore-card">
+          <h3>Retroscena e verità nascoste</h3>
+          <p>Ancora da compilare.</p>
+        </div>
+        <div class="lore-card" style="margin-top:1rem;">
+          <h3>PNG, fazioni e antagonisti</h3>
+          <p>Ancora da compilare.</p>
+        </div>
+        <div class="lore-card" style="margin-top:1rem;">
+          <h3>Avventure, dungeon e rivelazioni</h3>
+          <p>Ancora da compilare.</p>
+        </div>
+        <button id="master-logout" type="button" style="margin-top:1.5rem;padding:.7rem 1rem;background:transparent;color:var(--gold-bright);border:1px solid var(--line);border-radius:3px;cursor:pointer;">Blocca archivio</button>
+      </div>
+    </section>
+  </main>
+  <script>
+    const MASTER_PASSWORD = 'cambia-questa-password';
+    const STORAGE_KEY = 'cronache-master-unlocked';
+    const lock = document.querySelector('#master-lock');
+    const content = document.querySelector('#master-content');
+    const form = document.querySelector('#master-login');
+    const input = document.querySelector('#master-password');
+    const error = document.querySelector('#master-error');
+    const logout = document.querySelector('#master-logout');
+
+    function showUnlocked(unlocked) {
+      lock.hidden = unlocked;
+      content.hidden = !unlocked;
+    }
+
+    showUnlocked(sessionStorage.getItem(STORAGE_KEY) === 'yes');
+
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      if (input.value === MASTER_PASSWORD) {
+        sessionStorage.setItem(STORAGE_KEY, 'yes');
+        error.style.display = 'none';
+        input.value = '';
+        showUnlocked(true);
+      } else {
+        error.style.display = 'block';
+      }
+    });
+
+    logout.addEventListener('click', () => {
+      sessionStorage.removeItem(STORAGE_KEY);
+      showUnlocked(false);
+    });
+  </script>
+</SiteLayout>
