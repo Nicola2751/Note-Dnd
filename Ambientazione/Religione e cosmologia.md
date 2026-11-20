@@ -66,6 +66,18 @@ Le istituzioni religiose sono indipendenti e decentralizzate. Ogni tempio e comu
 
 Possono esistere ordini religiosi, congregazioni e alleanze tra templi e comunità. Queste strutture possono coordinare attività, condividere risorse o promuovere interpretazioni comuni, ma la loro autorità non è automaticamente riconosciuta da tutte le comunità. Templi dedicati alla stessa divinità possono quindi avere tradizioni, priorità e interpretazioni differenti, talvolta anche in contrasto.
 
+## Ruolo politico delle istituzioni religiose
+
+L'influenza politica delle istituzioni religiose è generalmente limitata. I templi sono soprattutto luoghi di culto, assistenza spirituale e aggregazione sociale. Possono consigliare i governanti o intervenire nel dibattito pubblico, ma raramente esercitano direttamente il potere politico.
+
+## Festività religiose
+
+Le grandi festività religiose sono importanti e riconosciute, ma la pratica quotidiana e la partecipazione variano molto tra individui e regioni. Le celebrazioni possono avere un forte valore sociale e culturale anche per chi non è particolarmente devoto.
+
+## Credenze popolari e superstizioni
+
+Le credenze popolari e le superstizioni sono moderatamente diffuse. Presagi, usanze, rituali e tradizioni possono essere radicati in alcune regioni e comunità, mentre altrove hanno un ruolo più marginale. Il loro peso varia localmente e possono convivere con le religioni organizzate senza derivarne necessariamente.
+
 ## Origine del mondo
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
