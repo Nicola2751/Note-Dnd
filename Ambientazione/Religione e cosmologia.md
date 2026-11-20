@@ -60,6 +60,12 @@ Esistono miti e leggende su semidei, eroi divini e discendenti degli dèi. Non �
 
 Le divinità più importanti sono conosciute in vaste aree del mondo, ma la conoscenza e la pratica religiosa non sono uniformi. Ogni regione può avere culti predominanti, tradizioni, riti, festività e interpretazioni differenti. Una stessa divinità può essere venerata con usanze diverse, appellativi locali o accenti teologici distinti. Le divinità minori possono essere conosciute e venerate soprattutto in specifiche regioni o comunità.
 
+## Organizzazione delle istituzioni religiose
+
+Le istituzioni religiose sono indipendenti e decentralizzate. Ogni tempio e comunità religiosa gode di ampia autonomia: non esiste necessariamente un'autorità centrale che governa tutti i fedeli di una divinità o tutte le sue istituzioni.
+
+Possono esistere ordini religiosi, congregazioni e alleanze tra templi e comunità. Queste strutture possono coordinare attività, condividere risorse o promuovere interpretazioni comuni, ma la loro autorità non è automaticamente riconosciuta da tutte le comunità. Templi dedicati alla stessa divinità possono quindi avere tradizioni, priorità e interpretazioni differenti, talvolta anche in contrasto.
+
 ## Origine del mondo
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
