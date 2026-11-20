@@ -93,3 +93,30 @@ I messaggi divini sono autentici, ma simbolici e ambigui. Possono presentarsi at
 ## Origine del mondo
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
+
+
+## Grazia divina e miracoli eccezionali
+
+Una divinità può concedere poteri soprannaturali eccezionali anche a individui che non appartengono al clero o non seguono formalmente una religione. La concessione dipende dalla volontà divina e può essere revocata liberamente, in qualsiasi momento e senza condizioni prestabilite.
+
+Esistono miracoli rarissimi che superano enormemente le capacità di qualsiasi sacerdote. Sono manifestazioni della stessa magia divina, ma di intensità straordinaria. Sono conosciuti soprattutto attraverso leggende, racconti religiosi e testimonianze difficili da distinguere dalle esagerazioni o dalle invenzioni successive.
+
+## Avatar divini
+
+Le divinità non possono manifestarsi direttamente nella propria vera essenza sul Piano Materiale, ma possono inviare avatar: incarnazioni fisiche estremamente potenti, dotate soltanto di una frazione del potere della divinità. Gli avatar sono esseri straordinari ma limitati, non onnipotenti né invulnerabili. Ogni divinità può mantenere un solo avatar sul Piano Materiale. Non è noto se possa mantenere manifestazioni contemporanee su altri piani.
+
+La creazione di un avatar richiede un grande dispendio di potere e indebolisce temporaneamente la divinità. Ogni avatar può esistere soltanto per un periodo limitato. Quando scompare naturalmente, tutto il potere investito ritorna alla divinità, che recupera gradualmente e lentamente le proprie forze. La scomparsa naturale non equivale alla distruzione violenta: se un avatar viene distrutto, la divinità subisce un danno. Una divinità indebolita può tentare di creare un nuovo avatar, ma rischia di aggravare ulteriormente il proprio indebolimento.
+
+Gli avatar sono generalmente umanoidi, pur mantenendo caratteristiche soprannaturali. La loro comparsa viene riconosciuta universalmente come un evento divino, anche se ciò non significa che tutti identifichino immediatamente la divinità interessata o ne comprendano le intenzioni. Gli avatar condividono completamente personalità, memoria, volontà e conoscenza della divinità originaria. Non possiedono autonomia: ogni loro azione è controllata direttamente dalla divinità. Quest'ultima mantiene integralmente la propria coscienza e le proprie percezioni nel piano di origine, oltre a quelle ottenute attraverso l'avatar.
+
+Gli avatar di divinità differenti possono incontrarsi e comunicare liberamente. Possono anche combattere, ma le divinità tendono a evitare gli scontri diretti: la distruzione di una manifestazione può danneggiare la divinità stessa e la creazione di un nuovo avatar è costosa. Non esistono necessariamente divieti universali che impediscano questi conflitti. Gli avatar possono intervenire liberamente negli affari mortali, guidare eserciti, governare territori, stringere alleanze e influenzare apertamente gli eventi politici. Non è noto se possano generare discendenti; esistono leggende in proposito, ma nessuna certezza.
+
+Il vero funzionamento degli avatar è conosciuto quasi esclusivamente dalle divinità. I mortali, compresi studiosi e istituzioni religiose, possiedono soltanto racconti frammentari e non comprendono le regole fondamentali della loro creazione, durata, distruzione e recupero.
+
+## Rituali di manifestazione
+
+Una divinità può manifestare autonomamente il proprio avatar quando lo desidera, ma lo fa raramente a causa del costo estremamente elevato in termini di potere. Un rituale eccezionale può normalmente semplificare lo sforzo necessario e ridurlo moderatamente, ma il costo rimane considerevole. Il rituale non obbliga la divinità a intervenire: la decisione finale resta sempre sua.
+
+Questi rituali possono essere eseguiti da qualsiasi gruppo di incantatori sufficientemente potenti, senza necessità di appartenere al clero o di venerare la divinità invocata. Le conoscenze sono parziali e custodite segretamente da alcune organizzazioni e istituzioni. I partecipanti rischiano la vita, danni alla sanità mentale o conseguenze permanenti, ma il rituale non richiede sacrifici deliberati: i danni derivano dall'enorme sforzo magico.
+
+Il fallimento può provocare conseguenze soprannaturali imprevedibili, tra cui esplosioni magiche, distorsioni dello spazio o alterazioni temporanee della realtà. Rituali particolarmente potenti possono attirare occasionalmente l'attenzione di altre divinità, soprattutto se vicine o rivali rispetto a quella invocata. La possibilità di interferenza dipende dai rapporti e dalle capacità delle divinità: possono ostacolare o ritardare la manifestazione, ma non impedirla definitivamente. La divinità invocata può aiutare indirettamente i partecipanti attraverso sacerdoti, campioni, visioni o altri interventi, senza intervenire direttamente sul rituale.
