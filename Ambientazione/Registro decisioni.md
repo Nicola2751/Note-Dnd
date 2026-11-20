@@ -98,3 +98,30 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 ## Decisioni future
 
 Aggiungere qui ogni nuova scelta approvata, indicando se modifica o sostituisce una decisione precedente.
+
+
+## Manifestazioni divine e avatar
+
+- [x] I poteri divini possono essere concessi anche per grazia a individui meritevoli, indipendentemente dall'appartenenza religiosa; la divinità può revocarli liberamente.
+- [x] Esistono miracoli eccezionali, molto superiori alle capacità sacerdotali; sono conosciuti soprattutto attraverso leggende difficili da verificare.
+- [x] Le divinità non si manifestano direttamente nella propria vera essenza sul Piano Materiale, ma possono inviare avatar fisici.
+- [x] Gli avatar sono estremamente potenti ma limitati, e rappresentano soltanto una frazione del potere divino.
+- [x] La distruzione violenta di un avatar danneggia la divinità; ogni divinità può mantenere un solo avatar sul Piano Materiale.
+- [x] Creare un avatar richiede un grande dispendio di potere e indebolisce temporaneamente la divinità.
+- [x] Ogni avatar ha durata limitata; alla scomparsa naturale tutto il potere investito ritorna alla divinità, che recupera lentamente le forze.
+- [x] Una divinità indebolita può tentare di creare un nuovo avatar, rischiando di aggravare il proprio indebolimento.
+- [x] Il funzionamento degli avatar è quasi esclusivamente noto agli dèi; i mortali possiedono racconti frammentari.
+- [x] Gli avatar di divinità differenti possono incontrarsi e comunicare liberamente. Possono combattere, ma le divinità tendono a evitare tali scontri per i rischi e le conseguenze.
+- [x] Gli avatar possono intervenire apertamente negli affari mortali, anche guidando eserciti, governando territori e stringendo alleanze.
+- [x] La loro comparsa è riconosciuta universalmente come evento divino; assumono generalmente forme umanoidi con caratteristiche soprannaturali.
+- [x] Gli avatar condividono pienamente personalità, memoria, volontà e conoscenza della divinità; la divinità percepisce contemporaneamente attraverso il proprio piano e l'avatar, che controlla direttamente senza autonomia.
+- [x] Non è noto se una divinità possa mantenere manifestazioni su altri piani oltre all'unico avatar sul Piano Materiale.
+- [x] Non è noto se gli avatar possano generare discendenti; esistono soltanto leggende.
+- [x] Rituali eccezionali possono indurre una divinità a manifestare un avatar, senza poterla obbligare. Le informazioni sono parziali e custodite segretamente da alcune organizzazioni e istituzioni.
+- [x] I rituali possono essere eseguiti da gruppi di incantatori potenti, senza requisito di appartenenza religiosa.
+- [x] Il rituale comporta rischi personali estremi per i partecipanti (morte, danni mentali o fisici permanenti), ma non richiede sacrifici deliberati.
+- [x] Il fallimento può provocare conseguenze soprannaturali imprevedibili, come esplosioni magiche o distorsioni.
+- [x] Rituali particolarmente potenti possono attirare occasionalmente l'attenzione di altre divinità. L'interferenza dipende da rapporti e poteri divini; può ostacolare o ritardare una manifestazione, ma non impedirla definitivamente.
+- [x] La divinità invocata può aiutare indirettamente attraverso sacerdoti, campioni, visioni o altri interventi.
+- [x] Una divinità può manifestare autonomamente un avatar quando lo desidera, ma lo fa raramente per il costo estremamente elevato.
+- [x] Il rituale riduce moderatamente lo sforzo necessario alla divinità, senza eliminare il costo considerevole né garantirne l'intervento.
