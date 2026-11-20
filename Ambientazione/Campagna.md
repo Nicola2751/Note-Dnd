@@ -14,7 +14,9 @@ tags:
 
 Campagna lunga dal livello 1 al 20. L'esperienza mescolerà esplorazione, dungeon, intrighi politici, conflitti, indagini e minacce di portata crescente.
 
-I personaggi inizieranno in una regione di confine, lontana dai grandi centri di potere. La loro avventura dovrà inserirsi in un mondo già esistente, con regni, istituzioni e rapporti internazionali consolidati da secoli.
+I personaggi inizieranno in una **frontiera della civiltà**: un territorio formalmente appartenente a un regno, ma ancora selvaggio e scarsamente controllato dal potere centrale. Potranno esistere insediamenti e autorità locali, ma il controllo statale sarà limitato.
+
+La loro avventura dovrà inserirsi in un mondo già esistente, con regni, istituzioni e rapporti internazionali consolidati da secoli.
 
 ## Principi narrativi
 
@@ -39,7 +41,7 @@ Questa suddivisione è una traccia di lavoro, non una trama già decisa.
 
 ## Regione iniziale
 
-Da definire nella pagina [[Geografia e continenti]]: sappiamo soltanto che sarà una regione di confine, con insediamenti lontani dal potere centrale e territori selvaggi.
+La regione sarà una frontiera della civiltà, formalmente appartenente a un regno ma ancora selvaggia e scarsamente controllata. Il continente, il regno, gli insediamenti e le tensioni locali sono ancora da definire.
 
 ## Da decidere
 
