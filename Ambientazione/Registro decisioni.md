@@ -66,6 +66,10 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 - [x] Influenza politica limitata delle istituzioni religiose: templi soprattutto spirituali e sociali; possono consigliare i governanti, ma raramente intervengono direttamente nella politica.
 - [x] Festività religiose moderatamente presenti: le grandi celebrazioni sono importanti, ma pratica e partecipazione variano tra individui e regioni.
 - [x] Credenze popolari e superstizioni moderatamente diffuse: tradizioni e superstizioni radicate, con peso variabile tra regioni e comunità.
+- [x] Magia divina rara: pochi sacerdoti e guaritori manifestano veri poteri soprannaturali; la maggior parte dei fedeli pratica la religione senza manifestazioni divine.
+- [x] Poteri sacerdotali legati a fede e disciplina: devozione, preparazione spirituale e disciplina religiosa sono alla base della magia divina.
+- [x] Comunicazione divina occasionale e diretta: gli dèi possono comunicare con i sacerdoti tramite visioni, sogni o manifestazioni.
+- [x] Messaggi divini autentici ma simbolici e ambigui: interpretarli correttamente è difficile e può generare letture differenti.
 
 ## Magia, tecnologia e infrastrutture
 
