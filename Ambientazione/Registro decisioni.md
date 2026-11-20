@@ -63,6 +63,9 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 - [x] Discendenza divina incerta: miti su semidei, eroi e discendenti degli dèi, senza certezza sulla loro veridicità.
 - [x] Conoscenza religiosa regionale: le divinità principali sono note in vaste aree, ma culti, tradizioni, riti e interpretazioni variano da regione a regione; le divinità minori possono avere notorietà locale.
 - [x] Istituzioni religiose decentralizzate: templi e comunità godono di ampia autonomia; possono esistere ordini e alleanze, senza un'autorità centrale necessariamente riconosciuta da tutti.
+- [x] Influenza politica limitata delle istituzioni religiose: templi soprattutto spirituali e sociali; possono consigliare i governanti, ma raramente intervengono direttamente nella politica.
+- [x] Festività religiose moderatamente presenti: le grandi celebrazioni sono importanti, ma pratica e partecipazione variano tra individui e regioni.
+- [x] Credenze popolari e superstizioni moderatamente diffuse: tradizioni e superstizioni radicate, con peso variabile tra regioni e comunità.
 
 ## Magia, tecnologia e infrastrutture
 
