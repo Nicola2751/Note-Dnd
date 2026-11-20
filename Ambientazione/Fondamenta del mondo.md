@@ -69,6 +69,24 @@ Le divinità del pantheon di Pathfinder/Golarion sono reali, ma distanti. Agisco
 
 L'origine del mondo resta sconosciuta, persino agli dèi. Le religioni e le culture possono avere racconti diversi, ma non è stata stabilita una spiegazione definitiva.
 
+## Cosmologia, divinità e religione
+
+La cosmologia segue una struttura classica di D&D, adattata alla storia e ai misteri del mondo. Comprende il Piano Materiale, i Piani Interni, i Piani Esterni e dimensioni particolari. Questa struttura è un riferimento condiviso, non un vincolo a importare automaticamente la cosmologia o la storia di Golarion.
+
+Il contatto con gli altri piani è estremamente difficile. I passaggi planari sono rarissimi e possono essere aperti da incantatori molto potenti, attraverso rituali eccezionali o in occasione di eventi straordinari. Possono inoltre esistere luoghi di confine o aperture temporanee, ma non costituiscono collegamenti ordinari. Il viaggio planare è un evento significativo e potenzialmente pericoloso.
+
+Le divinità sono reali ma distanti e intervengono soprattutto tramite sacerdoti, campioni, profezie e altri intermediari. Il pantheon comprende divinità maggiori e minori, senza una gerarchia rigida e universale. Tra loro possono esistere alleanze, rivalità e rapporti di neutralità; tali relazioni non devono essere considerate necessariamente immutabili.
+
+Le divinità non condividono necessariamente la stessa origine. Alcune potrebbero essere primordiali; altre potrebbero essere emerse da eventi cosmici, essere discendenti o creazioni di altre divinità, essere ascesi da una condizione mortale oppure essere legate alle credenze. Queste sono possibilità, non spiegazioni assegnate automaticamente a ogni singola divinità.
+
+La fede non crea gli dèi e non determina la loro esistenza. Può tuttavia rafforzarne il culto, la presenza e l'influenza nel mondo mortale. Una religione in declino può perdere prestigio e influenza sociale o politica, senza che ciò comporti necessariamente la scomparsa o l'indebolimento ontologico della divinità.
+
+La possibilità che una divinità possa morire resta sconosciuta. Esistono racconti di divinità morte, distrutte o scomparse, ma non è possibile stabilire se si tratti di vere morti divine, imprigionamenti, esili o altre condizioni. Nessuna testimonianza offre una risposta definitiva.
+
+Anche la discendenza divina è incerta. Miti e tradizioni parlano di semidei, eroi divini e discendenti degli dèi, ma non è sempre possibile distinguere la verità dalla leggenda. Non si assume che ogni figura descritta in questi termini abbia effettivamente un'origine divina.
+
+L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le religioni e le culture possono custodire racconti differenti, ma nessuna spiegazione è stata stabilita come verità definitiva.
+
 ## Punto di partenza della campagna
 
 I personaggi inizieranno in una regione di confine: insediamenti lontani dai grandi centri di potere, territori selvaggi e possibili tensioni tra popoli o autorità.
