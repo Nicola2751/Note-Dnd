@@ -87,6 +87,8 @@ Anche la discendenza divina è incerta. Miti e tradizioni parlano di semidei, er
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le religioni e le culture possono custodire racconti differenti, ma nessuna spiegazione è stata stabilita come verità definitiva.
 
+La conoscenza delle divinità è diffusa ma varia regionalmente: le divinità più importanti sono riconosciute in vaste aree, mentre culti predominanti, riti, festività, appellativi e interpretazioni cambiano secondo le tradizioni locali. Le divinità minori possono essere note soprattutto in determinate regioni o comunità.
+
 ## Punto di partenza della campagna
 
 I personaggi inizieranno in una regione di confine: insediamenti lontani dai grandi centri di potere, territori selvaggi e possibili tensioni tra popoli o autorità.
