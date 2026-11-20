@@ -9,15 +9,18 @@ tags:
 
 # Geografia e continenti
 
-Il mondo comprende **sei continenti**. I nomi, le forme, i climi e le culture non sono ancora stati stabiliti.
+Il mondo comprende **sei continenti**. I nomi, le forme e le caratteristiche specifiche devono ancora essere stabiliti.
 
 ## Visione d'insieme
 
-La geografia, la storia, le risorse e le migrazioni contribuiranno insieme all'identità dei continenti. Nessun continente dovrà essere ridotto a un unico bioma o a una sola cultura.
+- **Identità:** i continenti si distinguono soprattutto per caratteristiche geografiche e climatiche. Ognuno ospita al proprio interno culture, popoli e società molto variegati: nessun continente sarà ridotto a un unico bioma o a una sola cultura.
+- **Collegamenti:** variabili. Alcuni continenti sono strettamente connessi da viaggi, commerci e relazioni; altri sono isolati o praticamente sconosciuti al resto del mondo.
+- **Rapporti internazionali:** esistono rivalità storiche tra alcuni regni, tramandate da generazioni, mentre altri stati sono legati da alleanze di lunga data. La situazione varia da una regione all'altra.
+- **Esplorazione e cartografia:** differenziate. Alcuni continenti sono completamente cartografati, altri sono conosciuti solo in parte o restano in gran parte inesplorati.
 
 ## I sei continenti
 
-| Continente | Nome | Identità geografica e storica | Stato |
+| Continente | Nome | Identità geografica e climatica | Stato |
 |---|---|---|---|
 | I | Da definire | Da definire | Aperto |
 | II | Da definire | Da definire | Aperto |
@@ -26,13 +29,13 @@ La geografia, la storia, le risorse e le migrazioni contribuiranno insieme all'i
 | V | Da definire | Da definire | Aperto |
 | VI | Da definire | Da definire | Aperto |
 
-## Domande geografiche aperte
+## Regione iniziale della campagna
 
-- [ ] **Identità dei continenti:** approccio misto, con geografia, storia, risorse e culture che si influenzano reciprocamente.
-- [ ] **Collegamenti:** stabilire quanto siano comuni e sicuri i viaggi tra continenti.
-- [ ] **Rapporti internazionali:** definire il grado di pace, rivalità e conflitto.
-- [ ] **Regione iniziale:** scegliere il tipo di frontiera e il continente in cui si trova.
-- [ ] **Esplorazione:** decidere quanto siano conosciute e cartografate le diverse regioni.
+La campagna inizierà in una **frontiera della civiltà**: un territorio formalmente appartenente a un regno, ma ancora selvaggio e scarsamente controllato dal potere centrale.
+
+Questo non implica necessariamente una terra priva di autorità o insediamenti. Potranno esserci comunità stabili, autorità locali, rotte commerciali e rivendicazioni territoriali, ma il controllo del regno sarà limitato e discontinuo.
+
+Il continente, il regno e la posizione precisa della frontiera restano da definire.
 
 ## Scheda da compilare per ogni continente
 
@@ -45,6 +48,7 @@ La geografia, la storia, le risorse e le migrazioni contribuiranno insieme all'i
 - Religioni e luoghi di culto
 - Storia e rovine
 - Rapporti con gli altri continenti
+- Livello di esplorazione e precisione delle mappe
 
 > [!tip] Metodo
 > Prima definiremo una panoramica sintetica di tutti e sei i continenti. Approfondiremo soprattutto il continente e la regione iniziale, lasciando gli altri pronti per future espansioni.
