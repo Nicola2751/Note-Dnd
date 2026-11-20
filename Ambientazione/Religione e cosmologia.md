@@ -1,0 +1,61 @@
+---
+tipo: documento
+stato: approvato-con-elementi-da-sviluppare
+tags:
+  - ambientazione
+  - cosmologia
+  - religione
+  - divinità
+---
+
+# Religione e cosmologia
+
+## Struttura dei piani
+
+La cosmologia segue una struttura classica di D&D, adattata all'ambientazione:
+- **Piano Materiale:** il mondo in cui si svolge principalmente la campagna.
+- **Piani Interni:** i piani legati agli elementi, come Fuoco, Acqua, Aria e Terra.
+- **Piani Esterni:** dimensioni associate alle forze cosmiche, agli allineamenti e alle divinità.
+- **Dimensioni particolari:** tra cui concetti analoghi a Feywild e Shadowfell.
+- **Altri piani e domini extraplanari:** luoghi come Abisso e Inferi, da integrare nella cosmologia definitiva.
+
+La struttura è un riferimento, non un obbligo di riprodurre integralmente la cosmologia o la storia di Golarion. Nomi, natura, collegamenti e vicende dei singoli piani potranno essere adattati.
+
+## Accesso agli altri piani
+
+I viaggi planari sono estremamente difficili e rarissimi. Possono essere resi possibili da incantatori di grande potere, rituali eccezionali, eventi straordinari o eventuali punti di contatto naturali e aperture temporanee. Non esistono collegamenti planari ordinari e facilmente accessibili. Un viaggio tra i piani è un evento eccezionale e significativo.
+
+## Divinità
+
+Le divinità sono reali ma distanti. Agiscono soprattutto tramite sacerdoti, campioni, profezie e altri intermediari.
+
+Il pantheon comprende divinità maggiori e minori, ma non è organizzato secondo una gerarchia rigida. Le divinità possono collaborare, essere rivali oppure rimanere neutrali; i loro rapporti possono cambiare.
+
+Si utilizza come riferimento il pantheon di Pathfinder/Golarion per nomi, identità e domini, senza importare automaticamente la sua storia, geografia o cosmologia.
+
+## Origine degli dèi
+
+Le divinità possono avere origini differenti. Tra le possibilità:
+- entità primordiali, esistenti fin dalle epoche più antiche;
+- esseri emersi da eventi cosmici o trasformazioni della realtà;
+- discendenti o creazioni di altre divinità;
+- esseri mortali che hanno raggiunto una condizione divina;
+- entità forse legate alle credenze e alla coscienza collettiva.
+
+Queste categorie non costituiscono una spiegazione universale: l'origine di ogni divinità andrà valutata singolarmente e potrebbe essere sconosciuta o controversa.
+
+## Fede e influenza divina
+
+La fede non crea né determina l'esistenza degli dèi e non è la fonte principale del loro potere. Può però rafforzarne il culto, la presenza e l'influenza nel mondo mortale. La diffusione o il declino di una religione può quindi avere conseguenze culturali, sociali e politiche senza decidere automaticamente il destino della divinità.
+
+## Morte divina
+
+Non è noto se una vera divinità possa essere uccisa. Racconti e testimonianze parlano di divinità morte, distrutte o scomparse, ma non è possibile stabilire se si sia trattato di una morte definitiva, di una prigionia, di un esilio o di altro. La questione resta aperta anche per gli studiosi e i teologi.
+
+## Discendenza divina
+
+Esistono miti e leggende su semidei, eroi divini e discendenti degli dèi. Non è però sempre possibile distinguere la verità dalla leggenda e non si assume che ogni figura di questo tipo abbia davvero un'origine divina.
+
+## Origine del mondo
+
+L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
