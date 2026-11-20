@@ -78,6 +78,18 @@ Le grandi festività religiose sono importanti e riconosciute, ma la pratica quo
 
 Le credenze popolari e le superstizioni sono moderatamente diffuse. Presagi, usanze, rituali e tradizioni possono essere radicati in alcune regioni e comunità, mentre altrove hanno un ruolo più marginale. Il loro peso varia localmente e possono convivere con le religioni organizzate senza derivarne necessariamente.
 
+## Magia divina e sacerdoti
+
+La magia divina è rara. Solo una minoranza di sacerdoti e guaritori possiede la capacità di manifestare veri poteri soprannaturali. La maggior parte dei fedeli pratica la propria religione attraverso preghiere, riti e tradizioni, senza assistere a miracoli o manifestazioni divine.
+
+I poteri dei sacerdoti derivano dalla fede, dalla devozione, dalla preparazione spirituale e dalla disciplina religiosa. Non basta appartenere a un tempio o dichiararsi fedeli per ottenere capacità soprannaturali.
+
+## Comunicazioni divine
+
+Le divinità possono comunicare occasionalmente con i sacerdoti attraverso visioni, sogni o manifestazioni soprannaturali. Non si tratta di un dialogo costante: sono eventi eccezionali e potenzialmente importanti.
+
+I messaggi divini sono autentici, ma simbolici e ambigui. Possono presentarsi attraverso metafore, immagini enigmatiche e visioni che richiedono interpretazione. Anche sacerdoti sinceramente devoti possono attribuire significati diversi allo stesso messaggio, dando origine a interpretazioni religiose contrastanti.
+
 ## Origine del mondo
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
