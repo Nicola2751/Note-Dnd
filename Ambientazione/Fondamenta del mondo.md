@@ -89,6 +89,8 @@ L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le religioni e 
 
 La conoscenza delle divinità è diffusa ma varia regionalmente: le divinità più importanti sono riconosciute in vaste aree, mentre culti predominanti, riti, festività, appellativi e interpretazioni cambiano secondo le tradizioni locali. Le divinità minori possono essere note soprattutto in determinate regioni o comunità.
 
+Le istituzioni religiose sono decentralizzate. Templi e comunità godono di ampia autonomia e non dipendono necessariamente da un'autorità centrale. Possono esistere ordini, congregazioni e alleanze che coordinano più comunità, ma la loro autorità non è automaticamente riconosciuta da tutti i fedeli o da tutti i templi che venerano la stessa divinità. Di conseguenza, una medesima fede può comprendere istituzioni autonome, tradizioni differenti e anche interpretazioni in contrasto tra loro.
+
 ## Punto di partenza della campagna
 
 I personaggi inizieranno in una regione di confine: insediamenti lontani dai grandi centri di potere, territori selvaggi e possibili tensioni tra popoli o autorità.
