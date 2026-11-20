@@ -13,6 +13,7 @@ Il mondo comprende **sei continenti**. I nomi, le forme e le caratteristiche spe
 
 ## Visione d'insieme
 
+- **Struttura geografica del mondo:** configurazione mista, con grandi distanze oceaniche, mari interni e arcipelaghi. La disposizione precisa di questi elementi resta da progettare.
 - **Identità:** i continenti si distinguono soprattutto per caratteristiche geografiche e climatiche. Ognuno ospita al proprio interno culture, popoli e società molto variegati: nessun continente sarà ridotto a un unico bioma o a una sola cultura.
 - **Collegamenti:** variabili. Alcuni continenti sono strettamente connessi da viaggi, commerci e relazioni; altri sono isolati o praticamente sconosciuti al resto del mondo.
 - **Rapporti internazionali:** esistono rivalità storiche tra alcuni regni, tramandate da generazioni, mentre altri stati sono legati da alleanze di lunga data. La situazione varia da una regione all'altra.
