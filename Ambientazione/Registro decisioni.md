@@ -62,6 +62,7 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 - [x] La morte delle divinità è un mistero: esistono racconti di dèi morti, scomparsi o distrutti, ma non è noto se una vera divinità possa essere uccisa.
 - [x] Discendenza divina incerta: miti su semidei, eroi e discendenti degli dèi, senza certezza sulla loro veridicità.
 - [x] Conoscenza religiosa regionale: le divinità principali sono note in vaste aree, ma culti, tradizioni, riti e interpretazioni variano da regione a regione; le divinità minori possono avere notorietà locale.
+- [x] Istituzioni religiose decentralizzate: templi e comunità godono di ampia autonomia; possono esistere ordini e alleanze, senza un'autorità centrale necessariamente riconosciuta da tutti.
 
 ## Magia, tecnologia e infrastrutture
 
