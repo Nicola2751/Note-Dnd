@@ -56,6 +56,10 @@ Non è noto se una vera divinità possa essere uccisa. Racconti e testimonianze 
 
 Esistono miti e leggende su semidei, eroi divini e discendenti degli dèi. Non è però sempre possibile distinguere la verità dalla leggenda e non si assume che ogni figura di questo tipo abbia davvero un'origine divina.
 
+## Conoscenza religiosa e differenze regionali
+
+Le divinità più importanti sono conosciute in vaste aree del mondo, ma la conoscenza e la pratica religiosa non sono uniformi. Ogni regione può avere culti predominanti, tradizioni, riti, festività e interpretazioni differenti. Una stessa divinità può essere venerata con usanze diverse, appellativi locali o accenti teologici distinti. Le divinità minori possono essere conosciute e venerate soprattutto in specifiche regioni o comunità.
+
 ## Origine del mondo
 
 L'origine ultima del mondo resta sconosciuta, persino agli dèi. Le diverse religioni possono proporre racconti e spiegazioni contrastanti, ma nessuna versione è stata stabilita come verità definitiva.
