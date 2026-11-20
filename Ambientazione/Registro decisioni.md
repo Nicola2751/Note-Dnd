@@ -23,7 +23,11 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 - [x] Sei continenti.
 - [x] Equilibrio tra regni, imperi, repubbliche, città-stato e territori indipendenti.
 - [x] Mondo già strutturato, con equilibri consolidati da secoli.
-- [ ] Definire collegamenti e rapporti tra continenti.
+- [x] Continenti distinti soprattutto da geografia e clima, ma ciascuno culturalmente variegato.
+- [x] Collegamenti tra continenti variabili: alcuni sono strettamente connessi, altri quasi sconosciuti al resto del mondo.
+- [x] Rivalità storiche tra alcuni regni e alleanze di lunga data tra altri.
+- [x] Esplorazione e cartografia differenziate tra i continenti.
+- [ ] Definire nomi, forme e caratteristiche specifiche dei sei continenti.
 - [ ] Definire la distribuzione delle potenze.
 
 ## Popoli e sviluppo
@@ -45,8 +49,8 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 ## Campagna
 
 - [x] Progressione dal livello 1 al livello 20.
-- [x] Partenza in una regione di confine.
-- [ ] Definire il continente e la frontiera iniziale.
+- [x] Partenza in una frontiera della civiltà: territorio formalmente appartenente a un regno, ma selvaggio e scarsamente controllato.
+- [ ] Definire il continente e il regno della frontiera iniziale.
 - [ ] Progettare gli archi narrativi.
 
 ## Decisioni future
