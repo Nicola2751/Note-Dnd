@@ -1,0 +1,32 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+const base = import.meta.env.BASE_URL;
+---
+<SiteLayout title="Home" description="Un atlante illustrato di un mondo fantasy originale.">
+  <main>
+    <section class="hero">
+      <div class="eyebrow">Atlante · Cronache · Leggende</div>
+      <h1>Un mondo di meraviglie<br/>e terre sconosciute</h1>
+      <div class="ornament">✧ ❖ ✧</div>
+      <p>Sei continenti, antiche rivalità, divinità lontane e regioni in cui la magia ha lasciato il proprio segno. Questa è la porta d'accesso al mondo della nostra avventura.</p>
+      <div class="map-art" role="img" aria-label="Illustrazione stilizzata di una mappa fantasy con continenti e arcipelaghi">
+        <span class="land one"></span><span class="land two"></span><span class="land three"></span><span class="land four"></span>
+        <i class="island i1"></i><i class="island i2"></i><i class="island i3"></i><i class="island i4"></i>
+        <span class="map-caption">Terre note e mari ancora da esplorare</span><span class="compass">✥</span>
+      </div>
+    </section>
+    <div class="section-head"><div><div class="eyebrow">Esplora l'ambientazione</div><h2>Le porte del mondo</h2></div><p>Ogni storia comincia da una scoperta.</p></div>
+    <section class="card-grid">
+      <a class="lore-card" href={base + 'atlante/'}>
+        <div class="card-symbol">⌖</div><h3>L'Atlante</h3><p>Sei continenti, oceani sconfinati, mari interni e arcipelaghi. Scopri ciò che è noto e ciò che attende ancora di essere mappato.</p><span class="pill">Esplora i territori ↗</span>
+      </a>
+      <a class="lore-card" href={base + 'ambientazione/'}>
+        <div class="card-symbol">✧</div><h3>Il mondo</h3><p>Le fondamenta dell'ambientazione: magia, divinità, popoli e il delicato equilibrio tra le potenze.</p><span class="pill">Conosci il mondo ↗</span>
+      </a>
+      <a class="lore-card" href={base + 'campagna/'}>
+        <div class="card-symbol">⚔</div><h3>La campagna</h3><p>Un territorio di frontiera, lontano dal controllo del potere centrale. Da qui prenderà avvio il viaggio.</p><span class="pill">Scopri l'avventura ↗</span>
+      </a>
+    </section>
+    <aside class="notice">Questa enciclopedia cresce insieme alla campagna. Le informazioni qui pubblicate rappresentano la conoscenza condivisa con i giocatori; non tutto ciò che esiste nel mondo è necessariamente già conosciuto.</aside>
+  </main>
+</SiteLayout>
