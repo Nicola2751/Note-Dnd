@@ -54,7 +54,13 @@ Questa pagina tiene traccia delle scelte concordate. Le proposte non diventano c
 - [x] Rovine e resti antichi distribuiti naturalmente nel mondo.
 - [x] Pantheon completo di Pathfinder/Golarion.
 - [x] Origine del mondo sconosciuta, anche agli dèi.
-- [ ] Definire cosmologia e organizzazione religiosa.
+- [x] Cosmologia classica D&D: Piano Materiale, Piani Interni, Piani Esterni e dimensioni particolari, adattati all'ambientazione.
+- [x] Viaggi planari estremamente difficili e rarissimi; possibili tramite incantatori potenti, rituali eccezionali o eventi straordinari.
+- [x] Pantheon con divinità maggiori e minori, senza gerarchia rigida; alleanze, rivalità e neutralità variabili.
+- [x] Divinità con origini differenti: primordiali, nate da eventi cosmici, da altre divinità, da ascensioni mortali o forse dalle credenze.
+- [x] La fede ha influenza limitata: non crea né determina l'esistenza degli dèi, ma può rafforzarne culto, presenza e influenza nel mondo.
+- [x] La morte delle divinità è un mistero: esistono racconti di dèi morti, scomparsi o distrutti, ma non è noto se una vera divinità possa essere uccisa.
+- [x] Discendenza divina incerta: miti su semidei, eroi e discendenti degli dèi, senza certezza sulla loro veridicità.
 
 ## Magia, tecnologia e infrastrutture
 
