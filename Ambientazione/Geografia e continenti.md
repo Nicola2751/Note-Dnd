@@ -9,7 +9,7 @@ tags:
 
 # Geografia e continenti
 
-Il mondo comprende **sei continenti**. I nomi, le forme e le caratteristiche specifiche devono ancora essere stabiliti.
+Il mondo comprende **sei continenti**. Il pianeta ha dimensioni paragonabili alla Terra, che useremo come riferimento per distanze, proporzioni geografiche e tempi di viaggio. Non è necessario riprodurre la geografia terrestre. I nomi, le forme e le caratteristiche specifiche dei continenti devono ancora essere stabiliti.
 
 ## Visione d'insieme
 
